@@ -1,0 +1,5 @@
+{
+  "_info": "File konfigurasi update 3xNet — di-cek setiap boot dan saat app dibuka.",
+  "_force_update": "true = paksa app tampilkan dialog update wajib (tidak bisa di-dismiss), user tidak bisa lanjut pakai app sebelum update ke versi terbaru di version.json.",
+  "force_update": false
+}

@@ -1,0 +1,14 @@
+{
+  "_info": "File konfigurasi icon 3xNet — di-fetch otomatis tiap 15 menit dari GitHub.",
+  "_force_custom": "true = paksa app pakai icon CUSTOM seharian, override semua aturan jam/libur.",
+  "_custom_variant": "Pilih kondisi custom: 1=Maintenance, 2=Update, 3=Recovery, 4=Incident, 5=Outage",
+  "force_custom": false,
+  "custom_variant": 1,
+  "_custom_variant_detail": {
+    "1": "Maintenance — ikon gear abu-abu, badge peringatan amber",
+    "2": "Update — ikon panah hijau ke atas",
+    "3": "Recovery — ikon perisai biru dengan palang putih",
+    "4": "Incident — ikon segitiga peringatan oranye",
+    "5": "Outage — ikon awan merah dengan garis coret"
+  }
+}
